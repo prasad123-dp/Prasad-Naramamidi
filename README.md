@@ -64,7 +64,7 @@ An automated  for food ordering. High performance and scalable architecture.
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Durgaprasad Naramamidi&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
