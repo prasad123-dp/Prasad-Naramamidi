@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=,,,,Durgaprasad+Naramamidi" alt="Durgaprasad Naramamidi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=,,,,Durgaprasad" alt="Durgaprasad Naramamidi" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ An automated  for food ordering. High performance and scalable architecture.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasad123-dp&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats Card" width="48%" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="48%" />
 </p>
@@ -76,11 +76,11 @@ An automated  for food ordering. High performance and scalable architecture.
 ---
 
 ## 👤 Personal Information & Links
-- 📍 **Name:** Appana Veerabhadra Rao
-- 📧 **Email:** [bhadraappana@gmail.com](mailto:bhadraappana@gmail.com)
+- 📍 **Name:** Naramamidi DurgaPrasad
+- 📧 **Email:** [durgaprasadnaramamidi95@gmail.com](mailto:durgaprasadnaramamidi95@gmail.com)
 -    **Phone Number:** [+91-8919296192](tel:+8919296192)
 - 🌐 **Portfolio:** [MyPortfolio]( https://bhadraappana.github.io/portfolio/)
-- 💼 **LinkedIn:** [My_linkedin](https://www.linkedin.com/in/bhadra-appana-3b2813352)
+- 💼 **LinkedIn:** [My_linkedin](https://www.linkedin.com/in/durgaprasad-naramamidi-103a48328/)
 
 ---
 </p>
