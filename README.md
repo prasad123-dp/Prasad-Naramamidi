@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Durgaprasad+Naramamidi" alt="Durgaprasad Naramamidi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=,Durgaprasad" alt="Durgaprasad Naramamidi" />
 </p>
 
 ---
