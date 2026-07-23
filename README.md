@@ -79,7 +79,7 @@ An automated  for food ordering. High performance and scalable architecture.
 - 📍 **Name:** Naramamidi DurgaPrasad
 - 📧 **Email:** [durgaprasadnaramamidi95@gmail.com](mailto:durgaprasadnaramamidi95@gmail.com)
 -    **Phone Number:** [+91-8919296192](tel:+8919296192)
-- 🌐 **Portfolio:** [MyPortfolio]( https://bhadraappana.github.io/portfolio/)
+- 🌐 **Portfolio:** 
 - 💼 **LinkedIn:** [My_linkedin](https://www.linkedin.com/in/durgaprasad-naramamidi-103a48328/)
 
 ---
